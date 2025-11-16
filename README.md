@@ -1,4 +1,4 @@
-# 💼 Paraná Banco Business Case
+# 💼 Paraná Banco Study Case
 
 ## 📘 Visão Geral
 
